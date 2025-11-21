@@ -1,4 +1,5 @@
-# python-performance-journey
+# Python Performance Playground
+A hands-on repo for learning **benchmarking**, **profiling**, **CPU analysis**, **memory analysis**, and **tracing** of Python programs.
 
 ## Summary
 
